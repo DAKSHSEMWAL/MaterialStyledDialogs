@@ -165,7 +165,7 @@ new MaterialStyledDialog.Builder(this)
 		@Override
 		public void onClick(@NonNull MaterialDialog dialog, @NonNull DialogAction which) {
 			Log.d("MaterialStyledDialogs", "Do something!");
-	})
+	}})
 	//.setNegativeText(...)
 	//.onNegative(...)
 	//.setNeutralText(...)
